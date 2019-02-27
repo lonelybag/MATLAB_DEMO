@@ -17,3 +17,7 @@ https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/PT_Symetric.
 参考知乎回答 https://zhuanlan.zhihu.com/p/41609577
 https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.m
 ![image](https://github.com/lonelybag/Matlab_lonelybag/blob/master/02_results/004.jpg)
+
+## 005_WPT频率分裂
+https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.m
+![image](https://github.com/lonelybag/Matlab_lonelybag/blob/master/02_results/005.jpg)
