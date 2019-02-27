@@ -8,3 +8,16 @@ https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/overcoupled.
 ## 002_绘制最大功率传输定理
 https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/max_power_transfer_theorem.m
 ![image](https://github.com/lonelybag/Matlab_lonelybag/blob/master/02_results/002.jpg)
+
+## 003_宇称
+https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/PT_Symetric.m
+![image](https://github.com/lonelybag/Matlab_lonelybag/blob/master/02_results/003.jpg)
+
+## 004_狄拉克函数动画
+参考知乎回答 https://zhuanlan.zhihu.com/p/41609577
+https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.m
+![image](https://github.com/lonelybag/Matlab_lonelybag/blob/master/02_results/004.jpg)
+
+## 005_WPT频率分裂
+https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.m
+![image](https://github.com/lonelybag/Matlab_lonelybag/blob/master/02_results/005.jpg)
