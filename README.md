@@ -20,4 +20,4 @@ https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.
 
 ## 005_WPT频率分裂
 https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.m
-![image](https://github.com/lonelybag/Matlab_lonelybag/blob/master/02_results/005.jpg)
+![image](https://github.com/lonelybag/Matlab_lonelybag/blob/develope/02_results/005.JPG)
