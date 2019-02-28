@@ -31,6 +31,7 @@ https://github.com/lonelybag/MATLAB_DEMO/blob/develope/01_script/DWH_007.m
 <div align=center><img width="500" src="https://github.com/lonelybag/MATLAB_DEMO/blob/develope/02_results/007.gif"/></div>
 
 ## 008_去除图片水印
+参考知乎回答https://www.zhihu.com/question/27780598/answer/600729791
 https://github.com/lonelybag/MATLAB_DEMO/blob/develope/01_script/DWH_008.m
 <div align=center><img width="500" src="https://github.com/lonelybag/MATLAB_DEMO/blob/develope/02_results/11.jpg"/></div>
 <div align=center><img width="500" src="https://github.com/lonelybag/MATLAB_DEMO/blob/develope/02_results/11-2.jpg"/></div>
