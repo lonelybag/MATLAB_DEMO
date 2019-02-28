@@ -23,5 +23,5 @@ https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.
 ![image](https://github.com/lonelybag/Matlab_lonelybag/blob/develope/02_results/005.JPG)
 
 ## 006_动图
-https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.m
+https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/DWH_006.m
 ![image](https://github.com/lonelybag/Matlab_lonelybag/blob/develope/02_results/006.gif)
