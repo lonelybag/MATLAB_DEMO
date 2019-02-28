@@ -1,4 +1,4 @@
-# Matlab常用绘图脚本1
+# Matlab常用绘图脚本
 一些硕士期间积累的常用脚本
 
 ## 001_恒定功率和恒定电压下最大功率传输定理
@@ -21,3 +21,7 @@ https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.
 ## 005_WPT频率分裂
 https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.m
 ![image](https://github.com/lonelybag/Matlab_lonelybag/blob/develope/02_results/005.JPG)
+
+## 006_动图
+https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.m
+![image](https://github.com/lonelybag/Matlab_lonelybag/blob/develope/02_results/006.GIF)
