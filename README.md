@@ -24,4 +24,4 @@ https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.
 
 ## 006_动图
 https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.m
-![image](https://github.com/lonelybag/Matlab_lonelybag/blob/develope/02_results/006.GIF)
+![image](https://github.com/lonelybag/Matlab_lonelybag/blob/develope/02_results/006.gif)
