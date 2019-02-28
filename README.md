@@ -24,4 +24,4 @@ https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/Power_delta_
 
 ## 006_动图
 https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/DWH_006.m
-![image](https://github.com/lonelybag/Matlab_lonelybag/blob/develope/02_results/006.gif)
+<div align=center><img width="500" src="https://github.com/lonelybag/MATLAB_DEMO/blob/develope/02_results/006.gif"/></div>
