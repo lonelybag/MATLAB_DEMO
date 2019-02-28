@@ -19,7 +19,7 @@ https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.
 ![image](https://github.com/lonelybag/Matlab_lonelybag/blob/master/02_results/004.jpg)
 
 ## 005_WPT频率分裂
-https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/convolution.m
+https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/Power_delta_epsilon.m
 ![image](https://github.com/lonelybag/Matlab_lonelybag/blob/develope/02_results/005.JPG)
 
 ## 006_动图
