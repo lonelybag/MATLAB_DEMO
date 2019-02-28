@@ -29,3 +29,8 @@ https://github.com/lonelybag/Matlab_lonelybag/blob/master/01_script/DWH_006.m
 ## 007_动图
 https://github.com/lonelybag/MATLAB_DEMO/blob/develope/01_script/DWH_007.m
 <div align=center><img width="500" src="https://github.com/lonelybag/MATLAB_DEMO/blob/develope/02_results/007.gif"/></div>
+
+## 008_去除图片水印
+https://github.com/lonelybag/MATLAB_DEMO/blob/develope/01_script/DWH_008.m
+<div align=center><img width="500" src="https://github.com/lonelybag/MATLAB_DEMO/blob/develope/02_results/11.jpg"/></div>
+<div align=center><img width="500" src="https://github.com/lonelybag/MATLAB_DEMO/blob/develope/02_results/11-2.jpg"/></div>
