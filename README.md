@@ -17,6 +17,7 @@
 | <img width="400" src="https://github.com/lonelybag/MATLAB_DEMO/blob/develope/02_results/009.gif"/> | [009_3D SmithChart](https://github.com/lonelybag/MATLAB_DEMO/blob/develope/01_script/Plot_Smithchart_3D.m) | [2006](https://ieeexplore.ieee.org/document/4012745)  [2007](https://ieeexplore.ieee.org/document/4213223)  [2008](https://onlinelibrary.wiley.com/doi/pdf/10.1002/mop.23999)  [2009](https://www.researchgate.net/publication/229502618_Extremely_generalized_planar_Smith_chart_based_on_Mobius_transformations)  [2011](https://ieeexplore.ieee.org/document/5766788)
 | <img width="400" src="https://github.com/lonelybag/MATLAB_DEMO/blob/develope/02_results/12.png"/> | [010_Simulink自动连线](https://github.com/lonelybag/MATLAB_DEMO/blob/develope/01_script/new_model.m) | [参考1](http://www.dqzdhw.com/qianrushi/2181.html) [参考2](http://www.lishimeiye.cn/fun/886.html) [参考3](https://www.mathworks.com/help/simulink/slref/add_block.html?searchHighlight=add_block&s_tid=doc_srchtitle#d117e287649)
 | <img width="400" src="https://github.com/lonelybag/MATLAB_DEMO/blob/develope/02_results/13.png"/> | [011_曲线标注](https://github.com/lonelybag/MATLAB_DEMO/blob/develope/01_script/curve.m) | 无
+| <img width="400" src="https://github.com/lonelybag/MATLAB_DEMO/blob/develope/02_results/processingtxt.png"/> | [012_删除数据空格并保存为txt](https://github.com/lonelybag/MATLAB_DEMO/blob/develope/01_script/processingtxt.m)| [1.txt](https://github.com/lonelybag/MATLAB_DEMO/blob/develope/01_script/1.txt)
 
 </div>
  
