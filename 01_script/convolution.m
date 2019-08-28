@@ -1,8 +1,12 @@
 function convolution
 clc; clear all; close all;
+filename = 'convolution.gif';
 %
 N=10000;                                     % sampling numbers
 Tau0=1;                                      % define initial Tau
+
+fig1 = figure(1) ;
+fig1.Color = [1 1 1] ;
 for i=1:100
     Tau=Tau0/i; 
     TimeRange=linspace(-10*Tau,10*Tau,N);        % display time range
@@ -15,12 +19,22 @@ for i=1:100
     plot(TimeRange,RECT,'LineWidth',1.5); grid on;
     xlim([-1 1]); ylim([-0.5 120]);
     xlabel('Time'); ylabel('Amplitude');
-    title('Made by J Pan')
+    title('Made by lonelybag')
     
     subplot(2,1,2);
     plot(FreqRange,SINC,'LineWidth',1.5); grid on; 
     xlim([-200*pi/i 200*pi/i]);  ylim([-0.5 1.5]); 
     xlabel('Frequency'); ylabel('Amplitude');
-    title('Made by J Pan')
-    drawnow;   
+    title('Made by lonelybag')
+    t1 = text(0 , 0 , {'��100��',num2str(i)}) ;
+    drawnow;
+    
+    f = getframe(gcf);
+    imind = frame2im(f);
+    [imind,cm] = rgb2ind(imind,256);
+    if i == 1
+        imwrite(imind,cm,filename,'gif', 'Loopcount',inf,'DelayTime',0.1);
+    else
+        imwrite(imind,cm,filename,'gif','WriteMode','append','DelayTime',0.1);
+    end
 end
